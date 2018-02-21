@@ -1,6 +1,6 @@
 import web
 
-db_host = '	l9dwvv6j64hlhpul.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'
+db_host = 'l9dwvv6j64hlhpul.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'
 db_name = 'qju6nyyzi9ss6ksu'
 db_user = 'w2llgsiqdbnsqzpz'
 db_pw = 'p38zizijujan7jb0'
